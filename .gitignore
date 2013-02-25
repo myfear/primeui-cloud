@@ -16,6 +16,9 @@ local.properties
 .settings/
 .loadpath
 
+target/
+nb-configuration.xml
+
 # External tool builders
 .externalToolBuilders/
 
